@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Seccion_06_Fragments</string>
     <string name="hello_world">Hello World!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_data_fragment">Hola desde el fragmento data</string>
+    <string name="hello_details_fragment">Hola desde el fragmento details</string>
 </resources>
