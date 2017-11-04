@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Seccion_06_Fragments</string>
+    <string name="hello_world">Hello World!</string>
 </resources>
